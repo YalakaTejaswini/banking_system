@@ -131,6 +131,79 @@ Displays all successful transactions with complete receipt details.
 
 ## 🖥️ Sample Console Output
 
+========== BANK TRANSFER SYSTEM ==========
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Transfer Money
+6. View All Accounts
+7. View Transaction History
+8. Exit
+
+Enter your choice : 1
+Enter Account Number : 12345
+Enter Account Holder Name : teja
+Enter Initial Balance : 10000
+✅ Account Created Successfully.
+
+========== BANK TRANSFER SYSTEM ==========
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Transfer Money
+6. View All Accounts
+7. View Transaction History
+8. Exit
+
+Enter your choice : 1
+Enter Account Number : 67890
+Enter Account Holder Name : nikhii
+Enter Initial Balance : 20000
+✅ Account Created Successfully.
+
+========== BANK TRANSFER SYSTEM ==========
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Transfer Money
+6. View All Accounts
+7. View Transaction History
+8. Exit
+
+Enter your choice : 5
+From Account : 12345
+To Account : 67890
+Amount : 5000
+
+===== Transfer Successful =====
+
+==========================================
+         TRANSACTION RECEIPT
+==========================================
+Transaction ID : TXN1783077927659
+UTR ID         : SBI20260703000001
+From Account   : 12345
+To Account     : 67890
+Amount         : ₹5000.0
+Date & Time    : 03-07-2026 04:55:27 pm
+Status         : SUCCESS
+==========================================
+
+========== BANK TRANSFER SYSTEM ==========
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Transfer Money
+6. View All Accounts
+7. View Transaction History
+8. Exit
+
+Enter your choice : ........
+
 ```text
 ========== BANK TRANSFER SYSTEM ==========
 1. Create Account
@@ -224,6 +297,6 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Tejaswini Reddy**
+**Tejaswini **
 
 If you found this project helpful, feel free to ⭐ the repository and share your feedback.
